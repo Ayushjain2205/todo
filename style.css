@@ -1,0 +1,42 @@
+body {
+  max-width: 500px;
+  margin: auto;
+}
+
+.main {
+  display: block;
+  text-align: center;
+}
+
+.add-container {
+  width: 100%;
+}
+
+.add-field {
+  width: 85%;
+}
+
+.display-item {
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.todo-content {
+  margin: 0;
+}
+
+.fas {
+  padding: 0;
+  width: 20px;
+  height: 20px;
+}
+
+.start {
+  float: left;
+}
+
+.end {
+  float: right;
+}
